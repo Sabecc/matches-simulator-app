@@ -1,2 +1,2 @@
-# Matches Simulators App
+# Matches Simulator App
 App Android Nativo de Simulação de partida
